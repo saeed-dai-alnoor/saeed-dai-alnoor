@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 <p>
-  My name is <h4>Saeed Dai Alnoor</h4>, I'm Flutter Mobile Apps Developer with more than 2+ years of experience in building flutter apps using technologies such as GetX State management.
+  My name is <span style="color:blue">Saeed Dai Alnoor</span>, I'm Flutter Mobile Apps Developer with more than 2+ years of experience in building flutter apps using technologies such as GetX State management.
  
 </p>
 
