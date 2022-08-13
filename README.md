@@ -4,7 +4,7 @@
 </h3>
 <hr>
 <p>
-  My name is <span style="color:blue;font-weight:bolder">Saeed Dai Alnoor</span>, I'm Flutter Mobile Apps Developer with more than 2+ years of experience     in building flutter apps using technologies such as GetX State management. I love to make reusable components and always follow the best practices. I'm     fast learner and always working to develop my skills and learn new things and seeking always for the latest technologies and looking for an opportunity     that takes me to a higher level.
+  My name is <span style="color:blue;font-weight:bolder">Saeed Dai Alnoor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Sudan country</span>, I'm Flutter Mobile Apps Developer with more than 2+ years of experience     in building flutter apps using technologies such as GetX State management. I love to make reusable components and always follow the best practices. I'm     fast learner and always working to develop my skills and learn new things and seeking always for the latest technologies and looking for an opportunity     that takes me to a higher level.
 </p>
  <ul>
   <li> I’m interested in Mobile applications developmentand looking to collaborate on dart language.</li>
