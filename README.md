@@ -1,9 +1,9 @@
-<head>
+<header>
 <h3>
   Hey What's up?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-  </head>
+  </header>
 <p>
   My name is <span style="color:blue;font-weight:bolder">Saeed Dai Alnoor</span>, I'm Flutter Mobile Apps Developer with more than 2+ years of experience in building flutter apps using technologies such as GetX State management. I love to make reusable components and always follow the best practices. I'm fast learner and always working to develop my skills and learn new things and seeking always for the latest technologies and looking for an opportunity that takes me to a higher level
 </p>
