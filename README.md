@@ -10,8 +10,9 @@
   <li> I’m interested in Mobile applications developmentand looking to collaborate on dart language.</li>
   <li>I believe that the hard work that is governed by the system is the way to success and this is my way of life.</li>
   <li>I know how to make almost apps responsive and work in a correct way approach.</li>
-</ul> 
-<h4>### :hammer_and_wrench: Languages and Tools :</h4>
+</ul>
+---
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40"       height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL"          width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git"  width="40" height="40"/>
