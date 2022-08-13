@@ -11,18 +11,13 @@
   <li>I believe that the hard work that is governed by the system is the way to success and this is my way of life.</li>
   <li>I know how to make almost apps responsive and work in a correct way approach.</li>
 </ul> 
-
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/saeed-dai-alnoor-aa5661229/" target="_blank">>
+<h4>:mailbox:You can find me:</h4>
+  <a href="https://www.linkedin.com/in/saeed-dai-alnoor-aa5661229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
- :mailbox:You can find me:
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
