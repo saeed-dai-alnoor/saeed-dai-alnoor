@@ -12,7 +12,7 @@
 saeed-dai-alnoor/saeed-dai-alnoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a>
+<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a> -->
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
