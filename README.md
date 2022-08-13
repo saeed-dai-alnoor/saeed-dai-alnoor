@@ -14,7 +14,7 @@
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/saeed-dai-alnoor-aa5661229/" target="_blank">>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
