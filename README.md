@@ -1,4 +1,7 @@
-- 👋 Hey What's up,
+<h1>
+  Hey What's up?
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 -  I’m Saeed Dia alnoor 
 - 👀 I’m interested in Mobile applications development
 - 🌱 I’m currently learning flutter
