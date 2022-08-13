@@ -8,3 +8,9 @@
 saeed-dai-alnoor/saeed-dai-alnoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Languages
+
+HTML5 CSS3 Bootstrap JavaScript TypeScript
+Technologies
+
+React Graphql MaterialUI Docker Kubernetes Git
