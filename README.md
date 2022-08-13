@@ -10,3 +10,8 @@ saeed-dai-alnoor/saeed-dai-alnoor is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
