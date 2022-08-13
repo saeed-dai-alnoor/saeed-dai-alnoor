@@ -12,7 +12,7 @@
   <li>I know how to make almost apps responsive and work in a correct way approach.</li>
 </ul> 
 
-<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a> -->
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE" height="100](https://img.shields.io/badge/LinkedIn-blue)" /></a>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,4 +24,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ :mailbox:You can find me:
+ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
