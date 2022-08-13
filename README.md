@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Saeed Dia alnoor
+- 👋 Hey What's up,
+-  I’m Saeed Dia alnoor 
 - 👀 I’m interested in Mobile applications development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on dart language
